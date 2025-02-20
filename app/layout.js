@@ -7,9 +7,22 @@ export const metadata = {
   icons: {
     icon: "logos/favicon.svg",
   },
-  title: "Trung Nguyen",
-  description:
-    "I am a back-end developer passionate about building efficient, scalable applications, specializing in API design, database management, and system integration. I am transitioning into DevOps, expanding my skills in cloud computing, automation, and infrastructure management to deliver faster, reliable software solutions. Committed to continuous learning, I aim to bridge development and operations for impactful results. I may not have all the answers, but I am committed to finding solutions and learning along the way.",
+  openGraph: {
+    title: "Trung Nguyen",
+    description:
+      "I am a fullstack developer who loves creating efficient and scalable applications. My expertise lies in designing APIs, managing databases, and integrating systems. I am now enhancing my skills to transition into a DevOps Engineer role, where I am learning about cloud computing, automation, and managing infrastructure to deliver faster and more reliable software solutions. I believe in constantly improving my skills and aim to connect development and operations to achieve great results.",
+    url: "https://trungn.site",
+    siteName: "Trung Nguyen",
+    images: [
+      {
+        url: "https://trungn.site/logos/trungdeptraihihi.jpg",
+        width: 1200,
+        height: 630,
+        alt: "trungdeptraihihi",
+      },
+    ],
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }) {

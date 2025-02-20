@@ -29,5 +29,6 @@ jobs:
           ssh -i ~/.ssh/id_rsa ${{ secrets.REMOTE_USERNAME }}@${{ secrets.REMOTE_HOST }} << 'EOF'
             cd /var/www/portfolio/
             git pull origin main
+            npm install
             npm run build
           EOF
