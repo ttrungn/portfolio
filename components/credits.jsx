@@ -4,7 +4,7 @@ const Credits = (props) => {
   return (
     <div data-section id="credits" className="group mt-32">
       <div className="text-surface-600">
-        <div className="flex flex-row justify-between">
+        <div className="flex flex-row justify-end">
           {/* <a
             href="/imprint"
             rel="noopener noreferrer"

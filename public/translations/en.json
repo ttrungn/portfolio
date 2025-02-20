@@ -4,8 +4,9 @@
     "headline": "Fullstack Developer & Aspiring DevOps Engineer",
     "about": [
       "Hey there! 👋",
-      "I am a back-end developer passionate about building efficient, scalable applications, specializing in API design, database management, and system integration. I am transitioning into DevOps, expanding my skills in cloud computing, automation, and infrastructure management to deliver faster, reliable software solutions. Committed to continuous learning, I aim to bridge development and operations for impactful results.",
-      "I may not have all the answers, but I am committed to finding solutions and learning along the way."
+      "I am a fullstack developer who loves creating efficient and scalable applications. My expertise lies in designing APIs, managing databases, and integrating systems. I am now enhancing my skills to transition into a DevOps Engineer role, where I am learning about cloud computing, automation, and managing infrastructure to deliver faster and more reliable software solutions. I believe in constantly improving my skills and aim to connect development and operations to achieve great results.",
+      "I enjoy exploring new technologies and using them to build better applications. For me, programming languages, libraries, and frameworks are simply tools that help me achieve my goals.",
+      "I may not know everything, but I am dedicated to solving problems and learning as I go."
     ],
     "avatar": "/logos/trungdeptraihihi.jpg",
     "socials": {
@@ -70,7 +71,7 @@
       "organisation": "Self-Organized Volunteering",
       "logo": "/logos/binhphuoc-volunteering.jpeg",
       "startDate": "2022",
-      "description": "Organized and contributed to the distribution of food, essential items, toys, and school supplies to underprivileged children. This initiative aimed to bring joy and support to children in challenging circumstances, ensuring they could celebrate a meaningful and memorable Mid-Autumn Festival."
+      "description": "Together with my brother Cuong and my sister Diem, I organized and contributed to distributing food, essential items, toys, and school supplies to underprivileged children. Our goal was to bring joy and support to children in challenging circumstances, ensuring they could enjoy a meaningful and memorable Mid-Autumn Festival."
     }
   ],
   "projects": [
@@ -87,7 +88,6 @@
         "ASP.NET Core Web API",
         "SQL Server",
         "ReactJS",
-        "Tailwind CSS",
         "Google Cloud Storage",
         "AWS",
         "VNPay",
