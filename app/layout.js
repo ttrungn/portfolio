@@ -16,8 +16,6 @@ export const metadata = {
     images: [
       {
         url: "https://trungn.site/logos/trungdeptraihihi.jpg",
-        width: 1200,
-        height: 630,
         alt: "trungdeptraihihi",
       },
     ],
