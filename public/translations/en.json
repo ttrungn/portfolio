@@ -1,0 +1,109 @@
+{
+  "general": {
+    "name": "Trung Nguyen",
+    "headline": "Fullstack Developer | Aspiring DevOps Engineer",
+    "about": [
+      "Hey there! 👋",
+      "I am a back-end developer passionate about building efficient, scalable applications, specializing in API design, database management, and system integration. I am transitioning into DevOps, expanding my skills in cloud computing, automation, and infrastructure management to deliver faster, reliable software solutions. Committed to continuous learning, I aim to bridge development and operations for impactful results.",
+      "I may not have all the answers, but I am committed to finding solutions and learning along the way."
+    ],
+    "avatar": "/logos/trungdeptraihihi.jpg",
+    "socials": {
+      "email": "trungnguyen0803forwork@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/trung-nguy%E1%BB%85n-68685a312/",
+      "github": "https://github.com/ttrungn"
+    }
+  },
+  "experiences": [
+    {
+      "title": "Back-end Developer Intership",
+      "company": "FPT Software Ho Chi Minh",
+      "href": "",
+      "startDate": "01/2025",
+      "endDate": "Present",
+      "description": "developing, and maintaining scalable back-end applications using Python, FastAPI, Golang, Elasticsearch, and MySQL to deliver high-performance and reliable solutions.",
+      "logo": "/logos/fpt-software-company.png",
+      "skills": ["Python", "Go", "FastAPI", "MySQL", "Elasticsearch"]
+    }
+  ],
+  "education": [
+    {
+      "subject": "Software Engineering",
+      "degree": "Bachelor of Science",
+      "university": "FPT University",
+      "href": "",
+      "startDate": "2022",
+      "endDate": "Present",
+      "description": "Major in Software Engineering with a strong focus on back-end development and system design.",
+      "honors": [
+        "Top 100 Software Engineering Students of the Semester (2024)",
+        "50% University Scholarship (2022 - Present)"
+      ],
+      "imageSrc": "/logos/fpt-university.png"
+    }
+  ],
+  "volunteering": [
+    {
+      "position": "Binh Phuoc Province",
+      "event": "Mid-Autumn Festival",
+      "organisation": "Self-Organized Volunteering",
+      "logo": "/logos/binhphuoc-volunteering.jpeg",
+      "startDate": "2022",
+      "description": "Organized and contributed to the distribution of food, essential items, toys, and school supplies to underprivileged children. This initiative aimed to bring joy and support to children in challenging circumstances, ensuring they could celebrate a meaningful and memorable Mid-Autumn Festival."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Kit Stem Hub Website",
+      "framework": "ASP.NET Core, ReactJS",
+      "description": "A web platform providing interactive educational kits. Customers can request technical support for their labs, and staff members assist accordingly.",
+      "href": "https://github.com/richieieie/kit-stem-api",
+      "stars": "3",
+      "teamSize": 5,
+      "role": "Leader, Back-end Developer",
+      "technologies": [
+        "C#",
+        "ASP.NET Core Web API",
+        "SQL Server",
+        "ReactJS",
+        "Tailwind CSS",
+        "Google Cloud Storage",
+        "AWS",
+        "VNPay",
+        "Mapbox API"
+      ],
+      "responsibilities": [
+        "Requirement gathering and analysis",
+        "System design",
+        "API environment setup",
+        "Development and bug fixing"
+      ],
+      "links": {
+        "swagger": "https://54.66.193.22:5000/swagger/index.html",
+        "customerPortal": "https://kit-stem-hub-fe-customer.vercel.app",
+        "dashboard": "https://kit-stem-hub-fe-dashboards.vercel.app"
+      }
+    },
+    {
+      "name": "E-Commerce Website",
+      "framework": "Java Servlet",
+      "description": "An e-commerce platform where customers can browse and purchase products, similar to Shopee or Lazada.",
+      "href": "https://github.com/richieieie/ECommerceShop",
+      "stars": "0",
+      "teamSize": 1,
+      "role": "Full-stack Developer",
+      "technologies": [
+        "Java 8",
+        "Java Servlet",
+        "SQL Server",
+        "Bootstrap 5",
+        "Model-View-Controller (MVC)"
+      ],
+      "responsibilities": [
+        "Requirement gathering and analysis",
+        "System design",
+        "Development and bug fixing"
+      ]
+    }
+  ]
+}
