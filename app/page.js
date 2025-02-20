@@ -7,6 +7,7 @@ import Volunteering from "@/components/volunteering/volunteering";
 import Projects from "@/components/projects/projects";
 import Credits from "@/components/credits";
 import { promises as fs } from "fs";
+import TechStack from "@/components/techstacks/techstack";
 
 export default async function Home() {
   const file = await fs.readFile(
@@ -21,6 +22,7 @@ export default async function Home() {
         <Header data={data.general}></Header>
         <div className="lg:pl-[50%]">
           <About data={data.general}></About>
+          <TechStack data={data.techstack}></TechStack>
           <Education data={data.education}></Education>
           <Experiences data={data.experiences}></Experiences>
           <Volunteering data={data.volunteering}></Volunteering>

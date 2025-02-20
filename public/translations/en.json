@@ -1,7 +1,7 @@
 {
   "general": {
     "name": "Trung Nguyen",
-    "headline": "Fullstack Developer | Aspiring DevOps Engineer",
+    "headline": "Fullstack Developer & Aspiring DevOps Engineer",
     "about": [
       "Hey there! 👋",
       "I am a back-end developer passionate about building efficient, scalable applications, specializing in API design, database management, and system integration. I am transitioning into DevOps, expanding my skills in cloud computing, automation, and infrastructure management to deliver faster, reliable software solutions. Committed to continuous learning, I aim to bridge development and operations for impactful results.",
@@ -14,6 +14,27 @@
       "github": "https://github.com/ttrungn"
     }
   },
+  "techstack": [
+    { "icon": "devicon-html5-plain colored text-6xl" },
+    { "icon": "devicon-css3-plain colored text-6xl" },
+    { "icon": "devicon-javascript-plain colored text-6xl" },
+    { "icon": "devicon-react-original colored text-6xl" },
+    { "icon": "devicon-nodejs-plain-wordmark colored text-6xl" },
+    { "icon": "devicon-java-plain colored text-6xl" },
+    { "icon": "devicon-csharp-plain colored text-6xl" },
+    { "icon": "devicon-dotnetcore-plain colored text-6xl" },
+    { "icon": "devicon-python-plain colored text-6xl" },
+    { "icon": "devicon-fastapi-plain colored text-6xl" },
+    { "icon": "devicon-go-original-wordmark colored text-6xl" },
+    { "icon": "devicon-mysql-original colored text-6xl" },
+    { "icon": "devicon-microsoftsqlserver-plain colored text-6xl" },
+    { "icon": "devicon-postgresql-plain colored text-6xl" },
+    { "icon": "devicon-docker-plain colored text-6xl" },
+    { "icon": "devicon-kubernetes-plain colored text-6xl" },
+    { "icon": "devicon-amazonwebservices-plain-wordmark colored text-6xl" },
+    { "icon": "devicon-git-plain colored text-6xl" },
+    { "icon": "devicon-githubactions-plain colored text-6xl" }
+  ],
   "experiences": [
     {
       "title": "Back-end Developer Intership",
@@ -21,7 +42,7 @@
       "href": "",
       "startDate": "01/2025",
       "endDate": "Present",
-      "description": "developing, and maintaining scalable back-end applications using Python, FastAPI, Golang, Elasticsearch, and MySQL to deliver high-performance and reliable solutions.",
+      "description": "Developing, and maintaining scalable back-end applications using Python, FastAPI, Golang, Elasticsearch, and MySQL to deliver high-performance and reliable solutions.",
       "logo": "/logos/fpt-software-company.png",
       "skills": ["Python", "Go", "FastAPI", "MySQL", "Elasticsearch"]
     }

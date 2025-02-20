@@ -45,27 +45,33 @@ const Navigation = () => {
         name="ABOUT"
       ></NavItem>
       <NavItem
+        active={activeSection === "techstack" ? true : false}
+        href="#techstack"
+        num="02"
+        name="TECHSTACK"
+      ></NavItem>
+      <NavItem
         active={activeSection === "education" ? true : false}
         href="#education"
-        num="02"
+        num="03"
         name="EDUCATION"
       ></NavItem>
       <NavItem
         active={activeSection === "experiences" ? true : false}
         href="#experiences"
-        num="03"
+        num="04"
         name="EXPERIENCES"
       ></NavItem>
       <NavItem
         active={activeSection === "volunteering" ? true : false}
         href="#volunteering"
-        num="04"
+        num="05"
         name="VOLUNTEERING"
       ></NavItem>
       <NavItem
         active={activeSection === "projects" ? true : false}
         href="#projects"
-        num="05"
+        num="06"
         name="PROJECTS"
       ></NavItem>
     </div>
