@@ -1,6 +1,5 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  darkMode: "class", // Enables dark mode using the 'dark' class
   content: [
     "./pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
@@ -11,28 +10,28 @@ module.exports = {
       transparent: "transparent",
       current: "currentColor",
 
-      /* ::: DARK MODE COLORS ::: */
+      /* ::: GRAY-DOMINANT THEME ::: */
       primary: {
-        100: "#333333", // Darker gray
-        200: "#444444",
-        300: "#555555",
-        400: "#666666", // Slight contrast boost
-        500: "#777777",
-        600: "#888888",
+        100: "#444444",
+        200: "#5a5a5a",
+        300: "#6e6e6e",
+        400: "#888888", // Lightened for better contrast
+        500: "#a0a0a0",
+        600: "#bcbcbc",
       },
       surface: {
-        100: "#121212", // Almost black background
-        200: "#1a1a1a",
-        300: "#222222",
-        400: "#2a2a2a",
-        500: "#333333",
-        600: "#3b3b3b",
+        100: "#1a1a1a",
+        200: "#242424",
+        300: "#2e2e2e",
+        400: "#383838",
+        500: "#424242",
+        600: "#ffffff",
       },
 
       /* ::: IMPROVED TEXT COLORS ::: */
-      "on-background": "#ffffff", // White text for dark backgrounds
-      "on-primary": "#e0e0e0", // Softer light gray for text on primary colors
-      "on-surface": "#bcbcbc", // Light gray for readable text
+      "on-background": "#ffffff", // Pure white for best readability
+      "on-primary": "#f5f5f5", // Slightly off-white for softer contrast
+      "on-surface": "#e0e0e0", // Light gray for readable text on dark surfaces
     },
     extend: {
       backgroundImage: {

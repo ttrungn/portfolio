@@ -5,7 +5,7 @@ const Credits = (props) => {
     <div data-section id="credits" className="group mt-32">
       <div className="text-surface-600">
         <div className="flex flex-row justify-between">
-          <a
+          {/* <a
             href="/imprint"
             rel="noopener noreferrer"
             className="scroll-auto transition-all hover:text-on-background"
@@ -18,7 +18,7 @@ const Credits = (props) => {
             className="scroll-auto transition-all hover:text-on-background"
           >
             Privacy Statement
-          </a>
+          </a> */}
           <span>{props.data.name} 2024</span>
         </div>
       </div>
