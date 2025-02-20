@@ -43,7 +43,7 @@
       "href": "",
       "startDate": "01/2025",
       "endDate": "Present",
-      "description": "Developing, and maintaining scalable back-end applications using Python, FastAPI, Golang, Elasticsearch, and MySQL to deliver high-performance and reliable solutions.",
+      "description": "Developing, and maintaining scalable back-end applications using Python, FastAPI, Golang, Elasticsearch, and MySQL.",
       "logo": "/logos/fpt-software-company.png",
       "skills": ["Python", "Go", "FastAPI", "MySQL", "Elasticsearch"]
     }
