@@ -19,7 +19,7 @@ const Credits = (props) => {
           >
             Privacy Statement
           </a> */}
-          <span>{props.data.name} 2024</span>
+          {/* <span>{props.data.name} 2024</span> */}
         </div>
       </div>
     </div>
