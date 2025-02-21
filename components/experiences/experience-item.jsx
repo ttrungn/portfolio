@@ -23,13 +23,13 @@ function ExperienceItem(props) {
           {props.startDate} - {props.endDate}
         </div>
         <div className="text-surface-600 mb-4">{props.description}</div>
-        <div className="flex flex-row">
+        <div className="flex flex-row flex-wrap">
           {props.skills
             ? props.skills.map(function (object, index) {
                 return (
                   <div
                     key={object}
-                    className="bg-surface-400 py-1 px-3 rounded-full text-xs mr-2"
+                    className="bg-surface-400 py-1 px-3 rounded-full text-xs mr-2 mt-2"
                   >
                     {object}
                   </div>

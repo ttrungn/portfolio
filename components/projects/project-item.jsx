@@ -7,7 +7,7 @@ function ProjectItem(props) {
       className="group flex flex-col p-5 transition-all bg-surface-200 hover:scale-110 brightness-75 hover:brightness-100 hover:z-10"
     >
       <div className="text-surface-600 mb-4 flex flex-row items-center justify-between">
-        <div className="flex flex-row items-center">
+        <div className="flex flex-row items-center mr-2">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
@@ -29,6 +29,7 @@ function ProjectItem(props) {
         </div>
       </div>
       <h1 className="mb-4 text-xl subpixel-antialiased">{props.name}</h1>
+      <h3 className="mb-4 subpixel-antialiased">{props.role}</h3>
       <div className="text-surface-600 text-xs">{props.description}</div>
     </a>
   );

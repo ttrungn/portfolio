@@ -1,7 +1,7 @@
 {
   "general": {
     "name": "Trung Nguyen",
-    "headline": "Fullstack Developer & Aspiring DevOps Engineer",
+    "headline": "Fullstack Developer",
     "about": [
       "Hey there! 👋",
       "I am a fullstack developer who loves creating efficient and scalable applications. My expertise lies in designing APIs, managing databases, and integrating systems. I am now enhancing my skills to transition into a DevOps Engineer role, where I am learning about cloud computing, automation, and managing infrastructure to deliver faster and more reliable software solutions. I believe in constantly improving my skills and aim to connect development and operations to achieve great results.",
@@ -77,7 +77,7 @@
   "projects": [
     {
       "name": "Kit Stem Hub Website",
-      "framework": "ASP.NET Core, ReactJS",
+      "framework": "ASP.NET",
       "description": "A web platform providing interactive educational kits. Customers can request technical support for their labs, and staff members assist accordingly.",
       "href": "https://github.com/richieieie/kit-stem-api",
       "stars": "3",

@@ -17,6 +17,7 @@ const Projects = (props) => {
               lib={object.framework}
               description={object.description}
               href={object.href}
+              role={object.role}
             />
           );
         })}
