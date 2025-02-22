@@ -8,7 +8,7 @@ const TechStack = (props) => {
       <h2 className="text-xl mb-8 visible font-medium tracking-widest">
         Tech Stack
       </h2>
-      <div>
+      <div className="mb-4">
         <h6 className="visible font-medium tracking-widest mb-2">Primary</h6>
         <div className="flex flex-wrap gap-4">
           {props.data.primary.map(function (object, index) {
