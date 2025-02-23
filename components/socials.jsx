@@ -26,6 +26,7 @@ const Socials = (props) => {
           <span className="pl-2">Get in touch</span>
         </a>
         <a
+          target="_blank"
           href={props.data.resume}
           className="mr-10 transition-all bg-primary-500 hover:bg-primary-300 text-surface-100 font-bold py-2 px-8 rounded flex flex-row justify-center items-center"
         >
