@@ -20,8 +20,6 @@
       { "icon": "devicon-nodejs-plain-wordmark colored text-5xl" },
       { "icon": "devicon-csharp-plain colored text-5xl" },
       { "icon": "devicon-dotnetcore-plain colored text-5xl" },
-      { "icon": "devicon-python-plain colored text-5xl" },
-      { "icon": "devicon-go-original-wordmark colored text-5xl" },
       { "icon": "devicon-mysql-original colored text-5xl" },
       { "icon": "devicon-microsoftsqlserver-plain colored text-5xl" },
       { "icon": "devicon-postgresql-plain colored text-5xl" },
@@ -37,7 +35,9 @@
       { "icon": "devicon-javascript-plain colored text-5xl" },
       { "icon": "devicon-react-original colored text-5xl" },
       { "icon": "devicon-java-plain colored text-5xl" },
-      { "icon": "devicon-elasticsearch-plain colored text-5xl" }
+      { "icon": "devicon-elasticsearch-plain colored text-5xl" },
+      { "icon": "devicon-python-plain colored text-5xl" },
+      { "icon": "devicon-go-original-wordmark colored text-5xl" }
     ]
   },
   "experiences": [
