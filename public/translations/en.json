@@ -36,7 +36,8 @@
       { "icon": "devicon-css3-plain colored text-5xl" },
       { "icon": "devicon-javascript-plain colored text-5xl" },
       { "icon": "devicon-react-original colored text-5xl" },
-      { "icon": "devicon-java-plain colored text-5xl" }
+      { "icon": "devicon-java-plain colored text-5xl" },
+      { "icon": "devicon-elasticsearch-plain colored text-5xl" }
     ]
   },
   "experiences": [
