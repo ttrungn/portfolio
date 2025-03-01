@@ -26,7 +26,7 @@ jobs:
 
       - name: SSH to the remote server and Redeploy
         run: |
-          ssh -i ~/.ssh/id_rsa ${{ secrets.REMOTE_USERNAME }}@${{ secrets.REMOTE_HOST }} << 'EOF'
+          ssh ${{ secrets.REMOTE_USERNAME }}@${{ secrets.REMOTE_HOST }} << 'EOF'
             cd /var/www/${{secrets.DOMAIN}}/
             git pull origin main
             npm install
