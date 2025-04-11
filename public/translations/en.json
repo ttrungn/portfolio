@@ -20,15 +20,13 @@
     "primary": [
       { "icon": "devicon-csharp-plain colored text-5xl" },
       { "icon": "devicon-dotnetcore-plain colored text-5xl" },
-      { "icon": "devicon-go-original-wordmark colored text-5xl" },
-      { "icon": "devicon-mysql-original colored text-5xl" },
+      { "icon": "devicon-python-plain colored text-5xl" },
       { "icon": "devicon-microsoftsqlserver-plain colored text-5xl" },
-      { "icon": "devicon-postgresql-plain colored text-5xl" },
       { "icon": "devicon-docker-plain colored text-5xl" },
-      { "icon": "devicon-kubernetes-plain colored text-5xl" },
       { "icon": "devicon-amazonwebservices-plain-wordmark colored text-5xl" },
       { "icon": "devicon-git-plain colored text-5xl" },
-      { "icon": "devicon-githubactions-plain colored text-5xl" }
+      { "icon": "devicon-githubactions-plain colored text-5xl" },
+      { "icon": "devicon-jenkins-plain text-5xl" }
     ],
     "additional": [
       { "icon": "devicon-html5-plain colored text-5xl" },
@@ -36,8 +34,7 @@
       { "icon": "devicon-javascript-plain colored text-5xl" },
       { "icon": "devicon-nodejs-plain-wordmark colored text-5xl" },
       { "icon": "devicon-react-original colored text-5xl" },
-      { "icon": "devicon-elasticsearch-plain colored text-5xl" },
-      { "icon": "devicon-python-plain colored text-5xl" }
+      { "icon": "devicon-elasticsearch-plain colored text-5xl" }
     ]
   },
   "experiences": [
@@ -47,9 +44,9 @@
       "href": "",
       "startDate": "01/2025",
       "endDate": "Present",
-      "description": "Developing, and maintaining scalable back-end applications.",
+      "description": "Maintaining, monitoring, and optimizing AWS services for applications, including Lambda functions and ECS clusters. Developing and supporting scalable backend systems to ensure high performance and reliability.",
       "logo": "/logos/fpt-software-company.png",
-      "skills": ["Python", "Go", "FastAPI", "MySQL", "Elasticsearch"]
+      "skills": ["AWS", "Python", "Go", "FastAPI", "MySQL", "Elasticsearch"]
     }
   ],
   "education": [
@@ -80,13 +77,32 @@
   ],
   "projects": [
     {
-      "name": "Kit Stem Hub Website",
+      "name": "Ticket Prime",
+      "framework": "ReactJS",
+      "description": "This web platform manages and sells tickets for a wide range of events. It features a customer portal for ticket purchases and an administrative dashboard for efficient event and sales management.",
+      "href": "https://github.com/ttrungn/ticket-prime-user-fe",
+      "stars": "0",
+      "teamSize": 2,
+      "role": "Developer, DevOps Engineer",
+      "technologies": [],
+      "responsibilities": [
+        "Designed and implemented the front-end using ReactJS",
+        "Developed the strategic system architecture on AWS to ensure scalability and reliability",
+        "Implemented a CI/CD pipeline using Jenkins to automate builds and deployments",
+        "Deployed the infrastructure on AWS using Infrastructure as Code (IaC) tools such as Terraform"
+      ],
+      "links": {
+        "web": "https://test-ticket-prime-dev.trungn.site/"
+      }
+    },
+    {
+      "name": "Kit Stem Hub",
       "framework": "ASP.NET",
       "description": "A web platform providing interactive educational kits. Customers can request technical support for their labs, and staff members assist accordingly.",
       "href": "https://github.com/richieieie/kit-stem-api",
       "stars": "3",
       "teamSize": 5,
-      "role": "Leader, Back-end Developer",
+      "role": "Leader, Backend Developer, DevOps Engineer",
       "technologies": [
         "C#",
         "ASP.NET Core Web API",
@@ -117,18 +133,8 @@
       "stars": "0",
       "teamSize": 1,
       "role": "Full-stack Developer",
-      "technologies": [
-        "Java 8",
-        "Java Servlet",
-        "SQL Server",
-        "Bootstrap 5",
-        "Model-View-Controller (MVC)"
-      ],
-      "responsibilities": [
-        "Requirement gathering and analysis",
-        "System design",
-        "Development and bug fixing"
-      ]
+      "technologies": ["Java 8", "Java Servlet", "SQL Server", "Bootstrap 5", "Model-View-Controller (MVC)"],
+      "responsibilities": ["Requirement gathering and analysis", "System design", "Development and bug fixing"]
     },
     {
       "name": "Trung Nguyen Portfolio",
@@ -137,7 +143,7 @@
       "href": "https://github.com/ttrungn/portfolio",
       "stars": 0,
       "teamSize": 1,
-      "role": "Maintainer",
+      "role": "Developer",
       "technologies": ["Next.js", "React", "Tailwind CSS"],
       "responsibilities": [
         "Maintaining and improving the portfolio with new features",
