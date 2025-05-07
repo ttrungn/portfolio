@@ -13,7 +13,7 @@
       "email": "trungnguyen0803forwork@gmail.com",
       "linkedin": "https://www.linkedin.com/in/trung-nguy%E1%BB%85n-68685a312/",
       "github": "https://github.com/ttrungn",
-      "resume": "/pdfs/NguyenThanhTrung_CV.pdf"
+      "resume": "/pdfs/ZTF.pdf"
     }
   },
   "techstack": {
@@ -21,6 +21,8 @@
       { "icon": "devicon-csharp-plain colored text-5xl" },
       { "icon": "devicon-dotnetcore-plain colored text-5xl" },
       { "icon": "devicon-python-plain colored text-5xl" },
+      { "icon": "devicon-java-plain colored text-5xl" },
+      { "icon": "devicon-go-original-wordmark colored text-5xl" },
       { "icon": "devicon-microsoftsqlserver-plain colored text-5xl" },
       { "icon": "devicon-docker-plain colored text-5xl" },
       { "icon": "devicon-amazonwebservices-plain-wordmark colored text-5xl" },
