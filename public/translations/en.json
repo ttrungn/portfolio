@@ -8,30 +8,28 @@
       "I enjoy exploring new technologies and using them to build better applications. For me, programming languages, libraries, and frameworks are simply tools that help me achieve my goals.",
       "I may not know everything, but I am dedicated to solving problems and learning as I go."
     ],
-    "avatar": "/logos/trungdeptraihihi.jpg",
+    "avatar": "/logos/Trung.png",
     "socials": {
       "email": "trungnguyen0803forwork@gmail.com",
-      "linkedin": "https://www.linkedin.com/in/trung-nguy%E1%BB%85n-68685a312/",
+      "linkedin": "https://www.linkedin.com/in/trungn83/",
       "github": "https://github.com/ttrungn",
-      "resume": "/pdfs/ZTF.pdf"
+      "resume": "/pdfs/NguyenThanhTrungCV.pdf"
     }
   },
   "techstack": {
     "primary": [
       { "icon": "devicon-csharp-plain colored text-5xl" },
-      { "icon": "devicon-dotnetcore-plain colored text-5xl" },
       { "icon": "devicon-python-plain colored text-5xl" },
+      { "icon": "devicon-javascript-plain colored text-5xl" },
       { "icon": "devicon-microsoftsqlserver-plain colored text-5xl" },
       { "icon": "devicon-docker-plain colored text-5xl" },
       { "icon": "devicon-amazonwebservices-plain-wordmark colored text-5xl" },
       { "icon": "devicon-git-plain colored text-5xl" },
-      { "icon": "devicon-githubactions-plain colored text-5xl" },
-      { "icon": "devicon-jenkins-plain text-5xl" }
+      { "icon": "devicon-githubactions-plain colored text-5xl" }
     ],
     "additional": [
       { "icon": "devicon-html5-plain colored text-5xl" },
       { "icon": "devicon-css3-plain colored text-5xl" },
-      { "icon": "devicon-javascript-plain colored text-5xl" },
       { "icon": "devicon-java-plain colored text-5xl" },
       { "icon": "devicon-go-original-wordmark colored text-5xl" },
       { "icon": "devicon-nodejs-plain-wordmark colored text-5xl" },
@@ -41,14 +39,24 @@
   },
   "experiences": [
     {
+      "title": "Software Engineer",
+      "company": "Bin Tech Inc (Canada)",
+      "href": "",
+      "startDate": "06/2025",
+      "endDate": "Present",
+      "description": "Designed and integrated an IAM system with Keycloak, built and tested backend API services, and authored technical documentation. Developed a data ETL pipeline with Dagster and integrated AWS S3 for dataset storage, ensuring scalable and reliable workflows.",
+      "logo": "/logos/bin_tech_inc_canada_logo.jpg",
+      "skills": ["Python", "FastAPI", "AWS", "Docker", "Dagster", "Keycloak"]
+    },
+    {
       "title": "Backend Developer Intern",
-      "company": "FPT Software Ho Chi Minh",
+      "company": "FPT Software (Ho Chi Minh)",
       "href": "",
       "startDate": "01/2025",
-      "endDate": "Present",
-      "description": "Maintaining, monitoring, and optimizing AWS services for applications, including Lambda functions and ECS clusters. Developing and supporting scalable backend systems to ensure high performance and reliability.",
+      "endDate": "04/2025",
+      "description": "Developed and maintained backend API services while monitoring and optimizing AWS components such as ECS, S3, Lambda, IAM, and Cognito. Improved performance, reduced downtime, and ensured scalable backend operations.",
       "logo": "/logos/fpt-software-company.png",
-      "skills": ["AWS", "Python", "Go", "FastAPI", "MySQL", "Elasticsearch"]
+      "skills": ["AWS", "Python", "Go", "FastAPI", "MySQL", "Elasticsearch", "Docker"]
     }
   ],
   "education": [
