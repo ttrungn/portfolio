@@ -46,17 +46,42 @@
       "endDate": "Present",
       "description": "Designed and integrated an IAM system with Keycloak, built and tested backend API services, and authored technical documentation. Developed a data ETL pipeline with Dagster and integrated AWS S3 for dataset storage, ensuring scalable and reliable workflows.",
       "logo": "/logos/bin_tech_inc_canada_logo.jpg",
-      "skills": ["Python", "FastAPI", "AWS", "Docker", "Dagster", "Keycloak"]
+      "skills": [
+        "Git",
+        "Github",
+        "Nodejs",
+        "ReactJS",
+        "Python",
+        "FastAPI",
+        "AWS",
+        "Docker",
+        "Dagster",
+        "MinIO",
+        "Keycloak"
+      ]
     },
     {
-      "title": "Backend Developer Intern",
+      "title": "Software Engineer",
       "company": "FPT Software (Ho Chi Minh)",
       "href": "",
-      "startDate": "01/2025",
-      "endDate": "04/2025",
+      "startDate": "09/2024",
+      "endDate": "02/2025",
       "description": "Developed and maintained backend API services while monitoring and optimizing AWS components such as ECS, S3, Lambda, IAM, and Cognito. Improved performance, reduced downtime, and ensured scalable backend operations.",
       "logo": "/logos/fpt-software-company.png",
-      "skills": ["AWS", "Python", "Go", "FastAPI", "MySQL", "Elasticsearch", "Docker"]
+      "skills": [
+        "Git",
+        "Github",
+        "AWS",
+        "Azure",
+        "Python",
+        "FastAPI",
+        "C#",
+        "ASP.NET Core",
+        "MySQL",
+        "SQL Server",
+        "Elasticsearch",
+        "Docker"
+      ]
     }
   ],
   "education": [
