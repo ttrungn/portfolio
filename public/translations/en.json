@@ -42,7 +42,7 @@
       "title": "Software Engineer",
       "company": "Bin Tech Inc (Canada)",
       "href": "",
-      "startDate": "06/2025",
+      "startDate": "01/2025",
       "endDate": "Present",
       "description": "Designed and integrated an IAM system with Keycloak, built and tested backend API services, and authored technical documentation. Developed a data ETL pipeline with Dagster and integrated AWS S3 for dataset storage, ensuring scalable and reliable workflows.",
       "logo": "/logos/bin_tech_inc_canada_logo.jpg",
@@ -65,23 +65,10 @@
       "company": "FPT Software (Ho Chi Minh)",
       "href": "",
       "startDate": "09/2024",
-      "endDate": "02/2025",
-      "description": "Developed and maintained backend API services while monitoring and optimizing AWS components such as ECS, S3, Lambda, IAM, and Cognito. Improved performance, reduced downtime, and ensured scalable backend operations.",
+      "endDate": "03/2025",
+      "description": "Developed and maintained backend API services for a $10 million automotive startup in the Japanese market. Gained hands-on experience in deploying and troubleshooting applications on Amazon Web Services, utilizing services such as Lambda, S3, CloudWatch, EC2, and Cognito.",
       "logo": "/logos/fpt-software-company.png",
-      "skills": [
-        "Git",
-        "Github",
-        "AWS",
-        "Azure",
-        "Python",
-        "FastAPI",
-        "C#",
-        "ASP.NET Core",
-        "MySQL",
-        "SQL Server",
-        "Elasticsearch",
-        "Docker"
-      ]
+      "skills": ["Git", "Github", "AWS", "Python", "FastAPI", "Elasticsearch", "Docker"]
     }
   ],
   "education": [
